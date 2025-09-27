@@ -1,4 +1,4 @@
-# rock paper scissors game
+# rock paper scissors game between the player and computer (python)
 
 import sys
 import random
