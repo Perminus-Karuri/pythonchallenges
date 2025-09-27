@@ -1,3 +1,6 @@
+'''python code that  helps to run the 2 games but from another File 
+user gets to choose which game to play'''
+
 import sys
 from guess_number import guess
 from rps import rps
