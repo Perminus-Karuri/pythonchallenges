@@ -1,4 +1,4 @@
-# guessing game
+# guessing game where you have to guess the number the computer is thinking of
 
 import sys
 import random
